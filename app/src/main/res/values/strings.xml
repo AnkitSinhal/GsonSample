@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GsonSample</string>
+    <string name="load_json">Load JSON</string>
+    <string name="parse_json">Parse JSON</string>
+    <string name="title">JSON parsing using GSON</string>
+</resources>

@@ -1,0 +1,9 @@
+{
+  "Id": 11111,
+  "PersonalDetails": {
+    "name": "Employee1",
+    "age": 30,
+    "bloodGroup": "B+",
+    "address": "address"
+  }
+}
